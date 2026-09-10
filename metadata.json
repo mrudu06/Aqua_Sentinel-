@@ -1,0 +1,6 @@
+{
+  "name": "Aqua Sentinel",
+  "description": "Aqua Sentinel - Glacial Lake Outburst Flood (GLOF) & Lake Expansion Predictive Early-Warning System with Computer Vision telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
